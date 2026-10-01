@@ -1,0 +1,11 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Simple uppercase converter assignment with Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
